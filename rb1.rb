@@ -1,3 +1,4 @@
+# Tes 1
 print "Halo"
 nama = "Heart candy"
 umur = "17"
