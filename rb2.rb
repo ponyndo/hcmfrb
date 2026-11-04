@@ -1,3 +1,4 @@
+#Tes 2
 def Halo(nama)
   puts "ya #{nama}"
 end
