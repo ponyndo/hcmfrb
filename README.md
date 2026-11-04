@@ -1,1 +1,1 @@
-Cuma project gabut 
+Cuma project gabut saja 
